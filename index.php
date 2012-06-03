@@ -1,4 +1,4 @@
-<?php
+<?php 
 	ini_set("display_errors",true);
 	//index.php?url=files/css/main.css
 	include('files/c/bootstrap.php');
