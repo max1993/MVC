@@ -3,4 +3,7 @@
 		function __construct(){
 			echo "function __constrcut from user RPCed<br>";
 		}
+		function create(){
+			
+		}
 	}
